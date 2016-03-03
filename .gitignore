@@ -1,5 +1,5 @@
 /.git
-#/cache/*
-#/tmp/*
-#/logs/*
+/cache/*
+/tmp/*
+/logs/*
 /error.log
