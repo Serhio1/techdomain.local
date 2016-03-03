@@ -1,0 +1,5 @@
+AuthName "administrator"
+AuthUserFile "/home2/czcmdqjp/.htpasswds/public_html/administrator/passwd"
+AuthType Basic
+require valid-user
+ErrorDocument 401 "Authorisation Required"
